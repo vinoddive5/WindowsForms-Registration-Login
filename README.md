@@ -58,13 +58,6 @@ The main purpose of this project is to gain practical experience in C# programmi
 - Handling user inputs and displaying information.
 - Designing interactive desktop applications.
 
-## 🔮 Future Improvements
-
-- Integrate SQL Server to store user information.
-- Implement secure password hashing.
-- Add user profile update and delete functionality.
-- Improve input validation and exception handling.
-- Enhance the application user interface.
 
 ## 👨‍💻 Author
 
